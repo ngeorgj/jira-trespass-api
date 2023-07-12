@@ -10,11 +10,11 @@ Installation
 Create a new folder<br>
 `mkdir trespass-api`
 
-Clone the repository:<br>
-`git clone https://github.com/ngeorgj/jira-trespass-api.git`
-
 Navigate to the project directory:<br>
 `cd trespass-api`
+
+Clone the repository:<br>
+`git clone https://github.com/ngeorgj/jira-trespass-api.git .`
 
 Install the dependencies
 `pip install -r requirements.txt`
