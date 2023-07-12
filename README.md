@@ -50,6 +50,8 @@ The database connection details are stored in the .env file. Ensure that you hav
 
 For any inquiries or feedback, please contact nivaldo.georg@cprime.com or ngj.netrunner@gmail.com
 
+> " Because the API does not provide enough information " - Nivaldo Georg Junior, circa 2023
+
 
 
 
